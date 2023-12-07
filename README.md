@@ -1,1 +1,2 @@
-# Admin-for-calo
+Install pyrebase4
+Run gui.py
